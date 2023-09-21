@@ -1,0 +1,54 @@
+*{
+   margin: 5px;
+   padding: 10px;
+
+}
+
+body{
+    background-color:rgb(253, 253, 253) (230, 233, 229);
+    color: rgb(17, 17, 17);
+    text-align: center;
+}
+h1{background-color:rgb(222, 222, 228);
+}
+.apresentacao_links{
+    display: flex;
+    justify-content: space-beteween;
+}  
+
+.apresentacao_links_link{
+    background-color: #0fc5ee;
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    border-radius: 5px ;
+    font-size: 24px;
+    font-weight: 400;
+    padding: 15px 0;
+    text-decoration: none;
+    color: #000000;
+    font-family: Montserrat; sans-sarif;
+}
+
+    ul {margin: 0;
+        padding:0;
+        }
+        
+        li {list-style: none; 
+            margin: 10px;
+            display: inline;
+        }
+        li a {padding: 5px 10px;
+            margin:0;
+            border: 0px solid rgb(41, 6, 6); 
+            background: rgb(19, 2, 2);
+            text-decoration: none;
+            color:#FFF;
+            /* cantos arredondados */
+            -webkit-border-radius:5px;
+            -moz-border-radius:5px;
+            border-radius:5px;
+            }
+            li a:hover {background: #CCC;color: #000; border-color: #000;
+            }
+            a{background-color: #22D4FD;

@@ -33,12 +33,15 @@ h1{background-color:rgb(222, 222, 228);
     ul {margin: 0;
         padding:0;
         }
+    .menu{background-color:gray;
+         width:100vw;
+         }   
         
-        li {list-style: none; 
-            margin: 10px;
-            display: inline;
+        .menu li{list-style: none; 
+           
         }
-        li a {padding: 5px 10px;
+        
+.menu a {padding: 5px 10px;
             margin:0;
             border: 0px solid rgb(41, 6, 6); 
             background: rgb(19, 2, 2);
@@ -49,6 +52,6 @@ h1{background-color:rgb(222, 222, 228);
             -moz-border-radius:5px;
             border-radius:5px;
             }
-            li a:hover {background: #CCC;color: #000; border-color: #000;
+            .menu a:hover {background: #CCC;color: #000; border-color: #000;
             }
             a{background-color: #22D4FD;

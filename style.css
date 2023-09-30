@@ -17,8 +17,8 @@ h1{background-color:rgb(222, 222, 228);
 }  
 
 .apresentacao_links_link{
-    background-color: #0fc5ee;
-    width: 150px;
+    background-color: black;
+    width: 100px;
     height: 30px;
     text-align: center;
     border-radius: 5px ;
@@ -33,7 +33,7 @@ h1{background-color:rgb(222, 222, 228);
     ul {margin: 0;
         padding:0;
         }
-    .menu{background-color:gray;
+    .menu{background-color:black;
          width:100vw;
          }   
         
